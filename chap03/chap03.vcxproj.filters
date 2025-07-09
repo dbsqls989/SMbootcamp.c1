@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PA03.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PA04.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PA06.c">
+    <ClCompile Include="PA05.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="PA08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PA09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PA07.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="PA01.c">
@@ -33,19 +33,7 @@
     <ClCompile Include="PA02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="PA05.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PA07.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PA09.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PA10.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PA11.c">
+    <ClCompile Include="PA03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
